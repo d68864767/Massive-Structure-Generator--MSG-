@@ -1,0 +1,36 @@
+```json
+{
+  "name": "default",
+  "directories": [
+    {
+      "name": "src",
+      "files": [
+        {
+          "name": "index",
+          "type": "js"
+        }
+      ],
+      "directories": [
+        {
+          "name": "components",
+          "files": [
+            {
+              "name": "App",
+              "type": "js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "files": [
+        {
+          "name": "index.test",
+          "type": "js"
+        }
+      ]
+    }
+  ]
+}
+```

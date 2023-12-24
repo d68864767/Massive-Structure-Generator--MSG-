@@ -1,0 +1,17 @@
+{
+  "projectName": "Massive Structure Generator",
+  "version": "1.0.0",
+  "description": "An innovative Node.js tool designed to automate the creation of large-scale, complex file structures.",
+  "templateDirectory": "templates",
+  "outputDirectory": "output",
+  "aiOptimization": true,
+  "versionControlIntegration": {
+    "enabled": true,
+    "type": "git"
+  },
+  "customizationOptions": {
+    "fileTypes": ["js", "json", "md"],
+    "directoryDepth": 5,
+    "filesPerDirectory": 10
+  }
+}
